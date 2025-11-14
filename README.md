@@ -6,6 +6,7 @@ accuracy.
 
 ![gifff](https://github.com/user-attachments/assets/95c7675f-9e6d-47d7-b305-08965c254caf)
 
+## SRGAN Implemented
 <img width="1370" height="1011" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/ca90517a-de4b-48bc-a398-06e21b546a45" />
 
 ▪ For Automatic Number Plate Recognition, we used YOLOv8 for the number plate detection, further the detected number plate image
