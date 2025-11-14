@@ -6,6 +6,8 @@ accuracy.
 
 ![gifff](https://github.com/user-attachments/assets/95c7675f-9e6d-47d7-b305-08965c254caf)
 
+<img width="1370" height="1011" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/ca90517a-de4b-48bc-a398-06e21b546a45" />
+
 ▪ For Automatic Number Plate Recognition, we used YOLOv8 for the number plate detection, further the detected number plate image
 passes through the ESRGAN to increase the resolution of the image, and a grid search to detect the characters and numbers on the plate. We used Tesserect OCR which can detect any character with different languages and numbers.
 
@@ -31,9 +33,6 @@ making it a valuable tool for law enforcement agencies, businesses, and public s
 
 ![Screenshot (72)](https://github.com/user-attachments/assets/06c39ffb-9d58-4a00-a93a-b70d2c8d2fa1)
 
-EG1
-
-![1](https://github.com/user-attachments/assets/963babfe-262a-46ec-a7cd-74901d3c3b88)
 
 
 
